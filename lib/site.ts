@@ -7,8 +7,8 @@ export const site = {
   description:
     'Fasaha Tech builds research, software tools, and digital services that bring computing to people in the languages they think in — starting with Hausa.',
   url: 'https://fasahatech.com',
-  // TODO: switch to hello@fasahatech.com once that mailbox exists.
-  contactEmail: 'hisa2@illinois.edu',
+  // TODO: switch to a fasahatech.com address once that mailbox exists.
+  contactEmail: 'contact@littafinfasaha.com',
   social: {
     // TODO: confirm the company page slug on LinkedIn before launch.
     linkedin: 'https://www.linkedin.com/company/littafin-fasaha/',
