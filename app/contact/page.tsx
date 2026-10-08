@@ -37,7 +37,7 @@ export default function ContactPage() {
         ))}
       </ul>
 
-      <dl className="mt-12 grid gap-6 text-sm sm:grid-cols-3">
+      <dl className="mt-12 grid gap-6 text-sm sm:grid-cols-2">
         <div>
           <dt className="text-xs font-bold uppercase tracking-[0.2em] text-indigo">Email</dt>
           <dd className="mt-2">
@@ -51,14 +51,6 @@ export default function ContactPage() {
           <dd className="mt-2">
             <a href={site.social.linkedin} target="_blank" rel="noopener noreferrer" className="font-semibold hover:underline">
               Littafin Fasaha ↗
-            </a>
-          </dd>
-        </div>
-        <div>
-          <dt className="text-xs font-bold uppercase tracking-[0.2em] text-indigo">Code</dt>
-          <dd className="mt-2">
-            <a href={site.social.github} target="_blank" rel="noopener noreferrer" className="font-semibold hover:underline">
-              GitHub ↗
             </a>
           </dd>
         </div>

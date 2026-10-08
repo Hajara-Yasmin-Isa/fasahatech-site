@@ -13,7 +13,6 @@ export const site = {
     // TODO: confirm the company page slug on LinkedIn before launch.
     linkedin: 'https://www.linkedin.com/company/littafin-fasaha/',
     founderLinkedin: 'https://www.linkedin.com/in/hajara-yasmin-isa/',
-    github: 'https://github.com/Hajara-Yasmin-Isa',
   },
 }
 

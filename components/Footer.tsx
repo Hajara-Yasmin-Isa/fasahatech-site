@@ -32,9 +32,6 @@ export default function Footer() {
           <a href={site.social.linkedin} target="_blank" rel="noopener noreferrer" className="block text-paper/80 hover:text-gold-bright">
             LinkedIn
           </a>
-          <a href={site.social.github} target="_blank" rel="noopener noreferrer" className="block text-paper/80 hover:text-gold-bright">
-            GitHub
-          </a>
         </div>
       </Container>
       <div className="border-t border-paper/10">
